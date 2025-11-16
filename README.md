@@ -22,7 +22,7 @@ The following outlines how to construct an ANC system that provides optimal slee
 
 1. Personal ANC Sound System (~$1,000 - $1,500)
 The centerpiece of the ANC system is a combination of high-quality, head-level ANC speakers and sound-masking technology. This setup is designed to focus on the immediate sleep area, providing a “bubble” of quiet around the head without overwhelming the entire space.
-	•	High-End ANC Speakers: Specialized ANC soundbars or Bluetooth speakers designed for compact home environments are ideal. These devices can be placed near the bed to target the noise around the head, creating a personalized sound barrier. For instance, Bose QuietComfort 35 II or Bose SoundLink Revolve+ are portable and provide excellent ANC performance.
+	•	High-End ANC Speakers: Specialized ANC soundbars or Bluetooth speakers designed for compact home environments are ideal. These devices can be placed near the bed to target the noise around the head, creating a personalized sound barrier. 
 	•	Estimated Price: $500 - $1,000 for a high-quality ANC speaker setup.
 	•	Sound Masking Devices: Devices like the Sound+Sleep SE can complement the ANC system by masking environmental noise like traffic or voices, which may still be perceptible even with ANC in place. Sound masking devices add an extra layer of noise reduction for a more comprehensive solution.
 	•	Estimated Price: $200 for sound masking devices that offer customizable sound 
